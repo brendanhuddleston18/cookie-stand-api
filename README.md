@@ -1,3 +1,33 @@
+# LAB - Class 34
+
+## Project: Cookie Stand API
+
+### Author: Brendan Huddleston
+
+### Links and Resources
+
+### Setup
+
+- Install virtual environment
+
+- Install requirements
+
+- Insert environment variable
+
+### How to Initialize/Run Your Application
+
+- run server using `python manage.py runserver`
+
+### How to Use Your Library
+
+- Navigate to localhost link
+
+- Create account
+
+- Navigate to create in nav bar
+
+- Insert Cookie Stand Data
+
 # api-quick-start
 
 Template Project for starting up CRUD API with Django Rest Framework
